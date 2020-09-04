@@ -1,0 +1,46 @@
+# Lighthaus Color theme for Alacritty
+# GIT: https://github.com/lighthaus-theme/alacritty
+# Author: Adhiraj Sirohi (https://github.com/brutuski)
+#         Vasundhara Sharma (https://github.com/vasundhasauras)
+
+# Copyright © 2020-Present Lighthaus Theme
+# Copyright © 2020-Present Adhiraj Sirohi
+# Copyright © 2020-Present Vasundhara Sharma
+
+
+colors:
+  # Default colors
+  primary:
+    background: '#18191E'
+    foreground: '#FFEE79'
+  
+  selection:
+    text:       '#FF4D00'
+    background: '#090B26'
+
+  # Cursor colors
+  cursor:
+    text:       '#18191E'
+    cursor:     '#FFFF00'
+
+  # Normal colors
+  normal:
+    black:      '#18191E'
+    red:        '#FC2929'
+    green:      '#44B273'
+    yellow:     '#E25600'
+    blue:       '#1D918B'
+    magenta:    '#D16BB7'
+    cyan:       '#00BFA4'
+    white:      '#CCCCCC'
+
+  # Bright colors
+  bright:
+    black:      '#21252D'
+    red:        '#FF5050'
+    green:      '#50C16E'
+    yellow:     '#ED722E'
+    blue:       '#47A8A1'
+    magenta:    '#D68EB2'
+    cyan:       '#5AD1AA'
+    white:      '#FFFADE'
