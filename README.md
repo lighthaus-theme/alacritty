@@ -17,7 +17,7 @@ A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [Alacritty
 Font used in the screenshots: [Source Code Pro for Powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro)
 
 ### Installation
-To use the Lighthaus theme for Alacritty, simply replace the `[colors]` section in your `alacritty.yml` with the colors provided in the `[lighthaus.yml]()` file. <br>
+To use the Lighthaus theme for Alacritty, simply replace the `[colors]` section in your `alacritty.yml` with the colors provided in the [lighthaus.yml](https://github.com/lighthaus-theme/alacritty/blob/master/src/lighthaus.yml) file. <br>
 
 _The `alacritty.yml` file is usually located at `~/.config/alacritty/alacritty.yml`. For more information refer to the [official project README](https://github.com/alacritty/alacritty#configuration)._
 
